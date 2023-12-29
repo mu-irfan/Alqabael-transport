@@ -1561,7 +1561,7 @@ section {
   width: 100%;
   min-height: 50vh;
   background-color: rgba(0, 0, 0, 0.5);
-  background: rgba(0, 0, 0, .65) url('../img/hero.gif');
+  background: rgba(0, 0, 0, .65) url('../img/test.gif');
   background-blend-mode: darken;
   background-size: cover;
   background-position: center;
