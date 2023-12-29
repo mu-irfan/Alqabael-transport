@@ -270,6 +270,7 @@ section {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+
 .header {
   transition: all 0.5s;
   z-index: 997;
@@ -1559,9 +1560,9 @@ section {
 .hero {
   width: 100%;
   min-height: 50vh;
-  /* background-color: var(--color-secondary); */
   background-color: rgba(0, 0, 0, 0.5);
-  background-image: url("../img/heroa.jpeg");
+  background: rgba(0, 0, 0, .65) url('../img/hero.gif');
+  background-blend-mode: darken;
   background-size: cover;
   background-position: center;
   position: relative;
@@ -1574,7 +1575,7 @@ section {
   padding: 0;
   font-size: 48px;
   font-weight: 700;
-  color: #fff;
+  color: #fff !important;
 }
 
 @media (max-width: 575px) {
