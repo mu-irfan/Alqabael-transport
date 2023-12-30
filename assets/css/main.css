@@ -1561,7 +1561,7 @@ section {
   width: 100%;
   min-height: 50vh;
   background-color: rgba(0, 0, 0, 0.5);
-  background: rgba(0, 0, 0, .65) url('../img/test.gif');
+  background: rgba(0, 0, 0, .65) url('../img/hero.gif');
   background-blend-mode: darken;
   background-size: cover;
   background-position: center;
@@ -1678,7 +1678,7 @@ section {
 }
 
 .footer .footer-info .logo span {
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 700;
   letter-spacing: 1px;
   color: #fff;
