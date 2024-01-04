@@ -429,6 +429,7 @@ section {
     border-radius: 4px;
     margin: 15px;
     color: #fff;
+    width: fit-content;
   }
 
   .navbar .get-a-quote:hover,
